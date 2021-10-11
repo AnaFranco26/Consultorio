@@ -16,8 +16,10 @@
    font-size: 40px;
    font-family:sans-serif;
    font-style:initial;
-   text-shadow: 5px 2px 4px rgb(136, 110, 250);
+  /* text-shadow: 5px 2px 4px rgb(243, 242, 247);*/
    text-align: center;
+   background-color: #8a2be2;
+   color: white;
   }
 
   head{
